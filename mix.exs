@@ -9,7 +9,7 @@ defmodule Arpabex.MixProject do
       app: :arpabex,
       description: "Elixir NIF wrapper of Rust Arpabet phoneme prediction library",
       package: [
-        name: "Arpabex",
+        name: "arpabex",
         licenses: ["MIT"],
         links: %{"GitHub" => @source_url, "HexDocs" => "https://hexdocs.pm/arpabex/Arpabex.html"},
         source_url: @source_url,
