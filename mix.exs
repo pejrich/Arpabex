@@ -28,7 +28,7 @@ defmodule Arpabex.MixProject do
   defp docs do
     [
       main: "Arpabex",
-      name: "Arpabex",
+      name: "arpabex",
       source_ref: "v#{@version}",
       canonical: "https://hexdocs.pm/arpabex",
       source_url: @source_url,
